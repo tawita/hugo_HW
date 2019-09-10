@@ -1,4 +1,4 @@
-baseurl = "https://www.example.com/"
+baseurl = "https://hugo-project-7fbe1.firebaseapp.com/"
 languageCode = "en-us"
 title = "Computer Hardware Laboratory"
 theme = "blackburn"
